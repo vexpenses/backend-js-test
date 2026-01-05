@@ -1,5 +1,15 @@
 # Backend Test Project (NestJS)
 
+## Introdução
+
+Este é um projeto de um **SaaS de Pagamentos** onde empresas são clientes da plataforma e gerenciam recursos financeiros para seus colaboradores.
+
+Neste sistema:
+- **Empresas** se cadastram como clientes da plataforma e provisionam recursos financeiros
+- **Colaboradores** são usuários vinculados às empresas que possuem contas e cartões
+- Os colaboradores utilizam a solução para realizar pagamentos através de suas contas e cartões
+- A plataforma se integra com um serviço bancário externo para gerenciar contas e cartões
+
 ## Sobre o Teste
 
 Este projeto foi criado para avaliar suas habilidades de análise de código, identificação de problemas e senso crítico em relação a qualidade de software.
